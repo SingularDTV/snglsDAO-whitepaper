@@ -125,7 +125,7 @@ Treasury Control: The Treasury will collect a minimal amount of fees so general 
 
 
 
-## V. CONTENT MINING
+### V. CONTENT MINING
 
 One of the biggest problems in the technology sector right now is figuring out how to scale open content distribution platforms. The current systems are not able to keep up with the number of User that are coming onto these platforms and they end up banning large swaths of Content Creators even if they have done nothing wrong.3 Digging even deeper you have the problem of silencing voices of artists that could be against the regime of a country.4,5  Our solution to this is allowing humanity to validate its own artistic culture and history through a mechanism we call “Content Mining”.
 
