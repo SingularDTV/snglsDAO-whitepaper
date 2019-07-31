@@ -85,32 +85,34 @@ There are many different services that could come of this and we have only just 
 
 The native token of the ecosystem will be SNGLS.  The SNGLS token will be used in the DAO for voting rights to approve or deny proposals for upgrading the platform, amount for listing/upload fees, and Treasury control.  SNGLS will also be stakeable in the Content Mining operation which will decide what gets listed on the platform and what doesn’t.
 
+![](images/Utility.png)
 
 In our system we have five participants with different incentives for the mechanism to achieve equilibrium (in no particular order):
-Users:  the people who buy and view content
-Content Creators: the people who add new entries to the system
-Validators: Entities that vote on content being added or not to the system
-Developers: The plumbers who keep the platform running
-Third party service providers: Companies that derive their income from the platform by providing a service to the Content Creators
+1. Users:  the people who buy and view content
+2. Content Creators: the people who add new entries to the system
+3. Validators: Entities that vote on content being added or not to the system
+4. Developers: The plumbers who keep the platform running
+5. Third party service providers: Companies that derive their income from the platform by providing a service to the Content Creators
 
 We took a lot of inspiration from the Bitcoin community and how the different players of User, merchants, miners, Developers, and exchanges all come together under one incentive game to keep the system running.  
 
 The incentives play the participants off each other by making them want the system to be the best:
-New content has to be validated into the system (very much how new transactions have to be mined onto the blockchain in Bitcoin or Ethereum).
-Validators stake a minimum number of SNGLS, the more SNGLS they stake the higher their vote is in determining what gets validated onto the platform.  They are rewarded for their work and penalized for their mistakes.
-Developers can get Grants through the DAO.
-Third party services can provide paid services to the Content Creators.
+1. New content has to be validated into the system (very much how new transactions have to be mined onto the blockchain in Bitcoin or Ethereum).
+2. Validators stake a minimum number of SNGLS, the more SNGLS they stake the higher their vote is in determining what gets validated onto the platform.  They are rewarded for their work and penalized for their mistakes.
+3. Developers can get Grants through the DAO.
+4. Third party services can provide paid services to the Content Creators.
 
 
 ## IV. SNGLS DAO
 Our goal is to create a “living” system that adapts the platform (Breaker DApp) to the needs of the artists, without living on the backs of the creators. 
 
-Adaptive Platform Rules 
-Fees are kept low for basic maintenance
-Not operating on the back of creators, i.e. wealth extraction
-Fees increase for upgrades and retreat when finished
+### Adaptive Platform Rules 
+1. Fees are kept low for basic maintenance
+   
+       a. Not operating on the back of creators, i.e. wealth extraction
+2. Fees increase for upgrades and retreat when finished
 
-
+![](images/AdaptivePlatform.png)
 
 The SNGLS DAO framework is designed so that it starts as a simple kernel that can grow, or decrease, in complexity according to the needs of the platform determined by the community. The DAO will have three controls from the start.
 
