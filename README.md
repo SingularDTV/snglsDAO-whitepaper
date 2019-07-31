@@ -16,12 +16,12 @@ Milad Mostavi, Troy Murray and Zach LeBeau
 ## CONTENTS
 ### **I. Intro**
 
-1. A. State of The Commons
-2. B. Comparison between Bitcoin/Ethereum and Content Mining
-3. C. Platform Manifesto
+1. State of The Commons
+2. Comparison between Bitcoin/Ethereum and Content Mining
+3. Platform Manifesto
 
         a. We ask, “what can our platform do for content, not what content can do for our platform.”
-4. D. The choice is up to the people
+4. The choice is up to the people
   
 ### **II. WEB3 Tech Stack**
 
@@ -75,7 +75,7 @@ In our modern world the commons have been privatized into siloed architectures w
 
 Breaker: SNGLS 2.0 is built using the WEB3 Tech Stack:  
 
-![](images/WEB3 Tech Stack.png)
+![](images/Utility.png)
 
 All the content purchases/rights will be registered on the Ethereum blockchain, which acts as the source of trust (L1). We will be birthing the platform (L2) into the world and offering services to be built on top of the utility.  The platform will be controlled by the SNGLS DAO (Decentralized Autonomous Organization).  Other companies can come into the space and offer services as well (L3).  
 
