@@ -15,13 +15,11 @@ Milad Mostavi, Troy Murray and Zach LeBeau
 
 ## CONTENTS
 ### **I. Intro**
-
-  1. State of The Commons
-  2. Comparison between Bitcoin/Ethereum and Content Mining
-  3. Platform Manifesto
-     
-    a. We ask, “what can our platform do for content, not what content can do for our platform.”
-  4. The choice is up to the people
+		A. State of The Commons
+		B. Comparison between Bitcoin/Ethereum and Content Mining
+		C. Platform Manifesto
+     	a. We ask, “what can our platform do for content, not what content can do for our platform.”
+		D. The choice is up to the people
   
 ### **II. WEB3 Tech Stack**
 
