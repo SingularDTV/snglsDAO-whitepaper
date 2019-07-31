@@ -1,3 +1,5 @@
+![](images/logo.png)
+
 # SNGLS 2.0 White Paper
 
 ## A public decentralized media P2P marketplace distribution utility protocol
