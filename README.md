@@ -59,7 +59,7 @@ Milad Mostavi, Troy Murray and Zach LeBeau
   2. WEB2.0 - Traditional Siloed Curation
   3. WEB3.0 - Curation Marketplace
   
-### **VII. Glossary
+### **VII. Glossary**
 
 ### **VIII. References**
 
