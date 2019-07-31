@@ -1,6 +1,6 @@
 # SNGLS 2.0 White Paper
 
-## A public decentralized media P2P marketplace distribution protocol
+## A public decentralized media P2P marketplace distribution utility protocol
 
 
 **This Working White Paper is a draft and is intended for discussion and information purposes only.  It is being released in its current form in order to inspire spirited debate and allow time for our community to thoughtfully engage with a potential direction for our token.  No part of this Working White Paper is legally binding or enforceable against its authors, Breaker, its affiliates or their employees, nor is it meant to be.  It does not reflect the official position of Breaker at this time and should not be considered by anyone as a business plan or a promise to implement the ideas described herein.**
