@@ -15,41 +15,43 @@ Milad Mostavi, Troy Murray and Zach LeBeau
 
 ## CONTENTS
 ### **I. Intro**
-		A. State of The Commons
-		B. Comparison between Bitcoin/Ethereum and Content Mining
-		C. Platform Manifesto
-     	a. We ask, “what can our platform do for content, not what content can do for our platform.”
-		D. The choice is up to the people
+
+1. A. State of The Commons
+2. B. Comparison between Bitcoin/Ethereum and Content Mining
+3. C. Platform Manifesto
+
+        a. We ask, “what can our platform do for content, not what content can do for our platform.”
+4. D. The choice is up to the people
   
 ### **II. WEB3 Tech Stack**
 
 ### **III. SNGLS 2.0 Utility and Incentive Game**
 
-  1. Five Types of Participants
-  
-    a. Users (who buy and view content)
-    b. Content Creators (who add new entries to the system)
-    c. Validators
-    d. Developers
-    e. Third party service providers
+1. Five Types of Participants
+        
+        a. Users (who buy and view content)
+        b. Content Creators (who add new entries to the system)
+        c. Validators
+        d. Developers
+        e. Third party service providers
     
 ### **IV. SNGLS DAO**
 
-  1. Adaptive Platform
-  2. Three Beginning Controls of the DAO on the Protocol
+1. Adaptive Platform
+2. Three Beginning Controls of the DAO on the Protocol
   
-    a. Treasury Control
-    b. Platform Parameter Settings
-       - Validation Fee 
-       - Listing Fee
-       - Transaction Fee
-    c. Forum for Proposals
-       - Grants
+        a. Treasury Control
+        b. Platform Parameter Settings
+                - Validation Fee 
+                - Listing Fee
+                - Transaction Fee
+        c. Forum for Proposals
+                - Grants
        
 ### **V. Content Mining**
 
-  1. Mechanism
-  2. Flow of System
+1. Mechanism
+2. Flow of System
 
 ### **VI. Homepage Content Display**
 
