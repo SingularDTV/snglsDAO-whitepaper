@@ -162,48 +162,17 @@ There is a lot of work that goes into curating lists for distribution portals.  
 
 Our solution is to turn curation into a marketplace using Token-Curated Registries (TCR). This way we split the system up allowing market forces to find the best curation according to the user. Curators will compete and collaborate for top spots in a user-curated experience and be rewarded on the backend. TCRs could charge a small fee for a subscription or add a fee every time someone watches a product it recommended. This should give birth to a new and exciting ecosystem that responds to User in ways not thought possible till now.   
 
+### WEB2.0 Traditional Siloed Curation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-WEB2.0 Traditional Siloed Curation
 In the traditional Web2.0 model you have businesses that handle all the costs of building a platform along with the overhead of maintaining them. The platforms attract User by curating a niche selection of content. The cost of all this is then extracted from the artists at the price of around 20-30%. Users also need to pay for each platform, which leads to platform fatigue and gives Netflix or the other big guys an easy data tool to see which markets they need to move into, allowing them to squash competition. 
 
+![](images/WEB2Curation.png)
 
+### WEB3.0 - Curation Marketplace
 
-
-
-
-
-
-
-
-
-WEB3.0 - Curation Marketplace
 In the WEB3 Curation Marketplace model we distill the entire ecosystem.  The platform is a base layer that is updated to the needs of the system, keeping overhead low and not extracting wealth from the artists as we covered in the DAO section.  The curation of content happens on the second layer and is a marketplace for curators to compete with each other, thus using market forces to create the best curation according to the User.
 
-
-
-
+![](images/WEB3Curation.png)
 
 ## VII. Glossary
 1. Breaker DApp: A high end content portal that sits on top of the SNGLS media distribution protocol. Handles the processes that need a legal entity for the traditional Hollywood world and banking system charging a 20% service fee.
@@ -232,11 +201,19 @@ In the WEB3 Curation Marketplace model we distill the entire ecosystem.  The pla
 
 ## VIII. References
 NBC News - Twitter pulls down bot network that pushed proSaudi talking points about disappeared journalist, https://www.nbcnews.com/tech/tech-news/exclusive-twitter-pulls-down-bot-network-pushing-pro-saudi-talking-n921871
+
 Bitcoin.org - Bitcoin Whitepaper, https://bitcoin.org/bitcoin.pdf
+
 Gizmodo - Twitter CEO Jack Dorsey: I Suck and the Problem Is the Whole Site, https://gizmodo.com/twitter-ceo-jack-dorsey-i-suck-and-the-problem-is-the-1832578727
+
 The Daily Collegian - Youtube’s free speech problem, https://dailycollegian.com/2018/01/youtubes-free-speech-problem/
+
 Free Press Journal - Delhi High court orders YouTube to take down PewDiePie videos targeting T-Series and India, https://www.freepressjournal.in/entertainment/sc-orders-youtube-to-take-down-pewdipie-videos-targeting-t-series-and-india/1501338
+
 Pymnts - How Horror-Specific Streaming Service Shudder Connects Fans With Frights, https://www.pymnts.com/subscription-commerce/2018/shudder-horror-movie-streaming-service-netflix-hulu/
+
 Polygon - Cruchyroll’s million-subscriber milestone proves anime streaming isn’t just niche, https://www.polygon.com/2017/2/10/14567090/crunchyroll-subscriber-count-2017
+
 LA Times - Comedy streaming service Seeso shutting down after less than two years, https://www.latimes.com/business/hollywood/la-fi-ct-seeso-shutdown-20170809-story.html
+
 Distractify - Is Swedish YouTuber PewDiePie Really Quitting YouTube, https://www.distractify.com/p/pewdiepie-leaving-youtube
