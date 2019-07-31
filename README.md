@@ -177,28 +177,28 @@ In the WEB3 Curation Marketplace model we distill the entire ecosystem.  The pla
 ![](images/WEB3Curation.png)
 
 ## VII. Glossary
-1. Breaker DApp: A high end content portal that sits on top of the SNGLS media distribution protocol. Handles the processes that need a legal entity for the traditional Hollywood world and banking system charging a 20% service fee.
-2. SNGLS Media Distribution Protocol: A trustless global media distribution protocol anyone can come in and build on top of spurring a decentralized entertainment economy, controlled by the SNGLS DAO.
-3. Tech Stack: A set of software that provides the infrastructure for a technology system.
-4. Token Utility: A set of roles the token has in a specific tokenized ecosystem.
-5. Incentive Game: A payoff provided as a reward for a person in some activity which does not directly provide them with benefit.  
-6. Users: Content consumers who use the platform.
-7. Validators: Entities that vote on content being added, blocked, or removed from the platform.
-8. Content creator: Entities that create content for the platform, i.e. artists 
-9. Developers: Programers that maintain the platform. 
-10. Third party service providers: Any service that is built on top of the distribution portal.
-11. Adaptive platform: A platform that adapts to the needs of the system organically through the DAO. 
-12. Decentralized Autonomous Organization (DAO): Organization represented by rules encoded as a computer program that is transparent and controlled by stakeholders.
-13. Treasury: Repository where the Transaction Fees and SNGLS that are from Staking for curation are stored and controlled by the DAO.
-14. Validation Fee: Minimum amount paid to curators to vote yes or no on a piece of content.
-15. Listing Fee: The amount of the SNGLS needed to stake to potentially mine the content onto the platform.
-16. Transaction Fee: The percentage taken on every transaction of a rented or purchased piece of content.
-17. Grants: Capital allocated from the SNGLS DAO Treasury to proposals for development.
-18. Platform Upgrade Proposals: Upgrades to the distribution portal that are voted on by the DAO.
-19. Content Mining: A mechanism that incentivizes multiple parties to come together and decide what content should be allowed on platform.
-20. Staking: The process by which a content creator will put their tokens up for voting for the content to be allowed on the platform or not.
-21. Token Curated Registries: An incentivized voting game that helps create trusted lists that are maintained by the very people that use them.
-22. Peer2Peer (P2P): A computer system where all “peers” are connected to each other via the Internet.  Files can be shared directly between systems on the network without the need for a central server.
+1. **Breaker DApp:** A high end content portal that sits on top of the SNGLS media distribution protocol. Handles the processes that need a legal entity for the traditional Hollywood world and banking system charging a 20% service fee.
+2. **SNGLS Media Distribution Protocol:** A trustless global media distribution protocol anyone can come in and build on top of spurring a decentralized entertainment economy, controlled by the SNGLS DAO.
+3. **Tech Stack:** A set of software that provides the infrastructure for a technology system.
+4. **Token Utility:** A set of roles the token has in a specific tokenized ecosystem.
+5. **Incentive Game:** A payoff provided as a reward for a person in some activity which does not directly provide them with benefit.  
+6. **Users:** Content consumers who use the platform.
+7. **Validators:** Entities that vote on content being added, blocked, or removed from the platform.
+8. **Content Creator:** Entities that create content for the platform, i.e. artists 
+9. **Developers:** Programers that maintain the platform. 
+10. **Third Party Service Providers:** Any service that is built on top of the distribution portal.
+11. **Adaptive platform:** A platform that adapts to the needs of the system organically through the DAO. 
+12. **Decentralized Autonomous Organization (DAO):** Organization represented by rules encoded as a computer program that is transparent and controlled by stakeholders.
+13. **Treasury:** Repository where the Transaction Fees and SNGLS that are from Staking for curation are stored and controlled by the DAO.
+14. **Validation Fee:** Minimum amount paid to curators to vote yes or no on a piece of content.
+15. **Listing Fee:** The amount of the SNGLS needed to stake to potentially mine the content onto the platform.
+16. **Transaction Fee:** The percentage taken on every transaction of a rented or purchased piece of content.
+17. **Grants:** Capital allocated from the SNGLS DAO Treasury to proposals for development.
+18. **Platform Upgrade Proposals:** Upgrades to the distribution portal that are voted on by the DAO.
+19. **Content Mining:** A mechanism that incentivizes multiple parties to come together and decide what content should be allowed on platform.
+20. **Staking:** The process by which a content creator will put their tokens up for voting for the content to be allowed on the platform or not.
+21. **Token Curated Registries:** An incentivized voting game that helps create trusted lists that are maintained by the very people that use them.
+22. **Peer2Peer (P2P):** A computer system where all “peers” are connected to each other via the Internet.  Files can be shared directly between systems on the network without the need for a central server.
 
 
 ## VIII. References
