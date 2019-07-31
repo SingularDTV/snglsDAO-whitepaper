@@ -73,7 +73,7 @@ In our modern world the commons have been privatized into siloed architectures w
 
 ## II. WEB3 Tech Stack
 
-Breaker: SNGLS 2.0 is built using the WEB3 Tech Stack:  
+SNGLS 2.0 is built using the WEB3 Tech Stack:  
 
 ![](images/WEB3TechStack.png)
 
