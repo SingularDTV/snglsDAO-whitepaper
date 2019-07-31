@@ -1,4 +1,4 @@
-![](images/logo.png)
+![](images/logo.jpg)
 
 # SNGLS 2.0 White Paper
 
