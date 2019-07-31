@@ -116,44 +116,44 @@ Our goal is to create a “living” system that adapts the platform (Breaker DA
 
 The SNGLS DAO framework is designed so that it starts as a simple kernel that can grow, or decrease, in complexity according to the needs of the platform determined by the community. The DAO will have three controls from the start.
 
-3 Original DAO Controls
-Forum for proposals: The forum is a place where proposals to the platform are submitted. They will be voted on by the DAO. Funds and fees will be allocated according to the proposal.
-SNGLS Media Distribution Protocol parameter settings: The Staking and Transaction Fees are allocated to the Treasury of the DAO. A Validation Fee is paid to the Validators.  All parameters are voted on and set by the DAO.
-Validation Fee: Minimum amount paid to curators
-Listing Fee: The minimum amount of SNGLS needed to be staked to have content mined onto the platform
-Transaction Fee: The percentage taken on every transaction of a rented or purchased piece of content
-Treasury Control: The Treasury will collect a minimal amount of fees so general maintenance to the platform can be had.  If a large upgrade is submitted to the forum and is accepted the fees will increase until enough capital has been allocated for a successful build out.
+### 3 Original DAO Controls
+1. **Forum for proposals:** The forum is a place where proposals to the platform are submitted. They will be voted on by the DAO. Funds and fees will be allocated according to the proposal.
+2. **SNGLS Media Distribution Protocol parameter settings:** The Staking and Transaction Fees are allocated to the Treasury of the DAO. A Validation Fee is paid to the Validators.  All parameters are voted on and set by the DAO.
+                 
+       a. Validation Fee: Minimum amount paid to curators
+       b. Listing Fee: The minimum amount of SNGLS needed to be staked to have content mined onto the platform
+       c. Transaction Fee: The percentage taken on every transaction of a rented or purchased piece of content
+3. **Treasury Control:** The Treasury will collect a minimal amount of fees so general maintenance to the platform can be had.  If a large upgrade is submitted to the forum and is accepted the fees will increase until enough capital has been allocated for a successful build out.
 
+![](images/ProposalFlow.png)
 
-
-
-### V. CONTENT MINING
+## V. CONTENT MINING
 
 One of the biggest problems in the technology sector right now is figuring out how to scale open content distribution platforms. The current systems are not able to keep up with the number of User that are coming onto these platforms and they end up banning large swaths of Content Creators even if they have done nothing wrong.3 Digging even deeper you have the problem of silencing voices of artists that could be against the regime of a country.4,5  Our solution to this is allowing humanity to validate its own artistic culture and history through a mechanism we call “Content Mining”.
 
 Content Mining is designed to allow SNGLS holders to decide what kind of content they want to see included on the system.  It’s not “censorship-resistant or neutral” on purpose, but it does result in a validated content marketplace.  This is incredibly powerful, as it gives the public a tool to decide what it culturally thinks is correct.  This might sound scary to some people, but we believe that it is paramount to our mission.
 
-The basic content validation flow works like this:
-The content creator prepares a new entry to the system. In order for the content to be submitted, some amount of SNGLS needs to be staked along with the Validation Fee.
-Validator Fees incentivize Validators to verify the content faster.
-If the Validator fees are market correct, Validators will start verifying the content and they can vote up or down the entry.
-The more SNGLS a validator has staked, the more their vote counts.
-Once the threshold has been met the content is “mined” onto the platform.
-Once the voting is done, no matter if the entry was accepted or not, the Validators are rewarded the fee proportional to their voting weight.
-If content is rejected the Content Creators are returned their initial SNGLS stake (Listing Fee).
-If the Validator voted no (reject) then they are rewarded the validator fees, and the Validators that voted yes (accept) are rewarded nothing.
-If the content is accepted the initial SNGLS stake (Listing Fee) is sent to the Treasury that is controlled by the DAO.
-If the Validator voted yes (accept) they are rewarded the Validation Fees, and the Validators that voted no (reject) are rewarded nothing.
+### The basic content validation flow works like this:
+1. The content creator prepares a new entry to the system. In order for the content to be submitted, some amount of SNGLS needs to be staked along with the Validation Fee.
+    
+       a. Validator Fees incentivize Validators to verify the content faster.
+2. If the Validator fees are market correct, Validators will start verifying the content and they can vote up or down the entry.
 
+       a. The more SNGLS a validator has staked, the more their vote counts.
+       b. Once the threshold has been met the content is “mined” onto the platform.
+3. Once the voting is done, no matter if the entry was accepted or not, the Validators are rewarded the fee proportional to their voting weight.
 
+       a. If content is rejected the Content Creators are returned their initial SNGLS stake (Listing Fee).
+             - If the Validator voted no (reject) then they are rewarded the validator fees, and the Validators that voted yes (accept) are rewarded nothing.
+       b. If the content is accepted the initial SNGLS stake (Listing Fee) is sent to the Treasury that is controlled by the DAO.
+             - If the Validator voted yes (accept) they are rewarded the Validation Fees, and the Validators that voted no (reject) are rewarded nothing.
 
-
-
+![](images/ProposalFlow.png)
 
 In the event a piece of content is accepted into the system that is deemed not to be appropriate (ie copyrighted), the Validators will need to vote it out of the system.  When the content is voted off the system the original curators that voted “yes” will be penalized and lose their rewarded SNGLS payment. 
 
  
-
+![](images/ContentMining.png)
 
 
 ## VI. HOMEPAGE CONTENT DISPLAY (CURATED STOREFRONTS)
