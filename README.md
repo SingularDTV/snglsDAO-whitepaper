@@ -66,7 +66,7 @@ Milad Mostavi, Troy Murray and Zach LeBeau
 ### **VIII. References**
 
 
-**Words appearing in title case are defined in the glossary**
+*Words appearing in title case are defined in the glossary*
 
 ## I. INTRO
 The commons: cultural resources accessible by all members of society
@@ -90,11 +90,11 @@ The native token of the ecosystem will be SNGLS.  The SNGLS token will be used i
 ![](images/Utility.png)
 
 In our system we have five participants with different incentives for the mechanism to achieve equilibrium (in no particular order):
-1. Users:  the people who buy and view content
-2. Content Creators: the people who add new entries to the system
-3. Validators: Entities that vote on content being added or not to the system
-4. Developers: The plumbers who keep the platform running
-5. Third party service providers: Companies that derive their income from the platform by providing a service to the Content Creators
+1. **Users:**  the people who buy and view content
+2. **Content Creators:** the people who add new entries to the system
+3. **Validators:** Entities that vote on content being added or not to the system
+4. **Developers:** The plumbers who keep the platform running
+5. **Third Party Service Providers:** Companies that derive their income from the platform by providing a service to the Content Creators
 
 We took a lot of inspiration from the Bitcoin community and how the different players of User, merchants, miners, Developers, and exchanges all come together under one incentive game to keep the system running.  
 
