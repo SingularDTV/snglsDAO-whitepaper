@@ -150,12 +150,12 @@ Content Mining is designed to allow SNGLS holders to decide what kind of content
        b. If the content is accepted the initial SNGLS stake (Listing Fee) is sent to the Treasury that is controlled by the DAO.
              - If the Validator voted yes (accept) they are rewarded the Validation Fees, and the Validators that voted no (reject) are rewarded nothing.
 
-![](images/ProposalFlow.png)
+![](images/ContentMining.png)
 
 In the event a piece of content is accepted into the system that is deemed not to be appropriate (ie copyrighted), the Validators will need to vote it out of the system.  When the content is voted off the system the original curators that voted “yes” will be penalized and lose their rewarded SNGLS payment. 
 
  
-![](images/ContentMining.png)
+
 
 
 ## VI. HOMEPAGE CONTENT DISPLAY (CURATED STOREFRONTS)
