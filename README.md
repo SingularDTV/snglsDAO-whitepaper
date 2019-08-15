@@ -1,6 +1,6 @@
 ![](images/logo.png)
 
-# SNGLS 2.0 White Paper
+# SNGLS DAO White Paper
 
 ## A public decentralized media P2P marketplace distribution utility protocol
 
@@ -106,7 +106,7 @@ The incentives play the participants off each other by making them want the syst
 
 
 ## IV. SNGLS DAO
-Our goal is to create a “living” system that adapts the platform (Breaker DApp) to the needs of the artists, without living on the backs of the creators. 
+Our goal is to create a “living” system that adapts the protocol to the needs of the artists, without living on the backs of the creators. 
 
 ### Adaptive Platform Rules 
 1. Fees are kept low for basic maintenance
