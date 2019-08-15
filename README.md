@@ -27,7 +27,7 @@ Milad Mostavi, Troy Murray and Zach LeBeau
   
 ### **II. WEB3 Tech Stack**
 
-### **III. SNGLS 2.0 Utility and Incentive Game**
+### **III. SNGLS Token Utility and Incentive Game**
 
 1. Five Types of Participants
         
@@ -37,7 +37,7 @@ Milad Mostavi, Troy Murray and Zach LeBeau
         d. Developers
         e. Third party service providers
     
-### **IV. SNGLS DAO**
+### **IV. SNGLS DAO Governance**
 
 1. Adaptive Platform
 2. Three Beginning Controls of the DAO on the Protocol
@@ -75,7 +75,7 @@ In our modern world the commons have been privatized into siloed architectures w
 
 ## II. WEB3 Tech Stack
 
-SNGLS 2.0 is built using the WEB3 Tech Stack:  
+SNGLS protocol is built using the WEB3 Tech Stack:  
 
 ![](images/WEB3TechStack.png)
 
@@ -83,7 +83,7 @@ All the content purchases/rights will be registered on the Ethereum blockchain, 
 
 There are many different services that could come of this and we have only just started to scratch the surface of what these services could be.  We think this will ignite the decentralized entertainment economy and spur growth for services and new opportunities along with business models for artists.
 
-## III. SNGLS 2.0 UTILITY AND INCENTIVE GAME
+## III. SNGLS TOKEN UTILITY AND INCENTIVE GAME
 
 The native token of the ecosystem will be SNGLS.  The SNGLS token will be used in the DAO for voting rights to approve or deny proposals for upgrading the platform, amount for listing/upload fees, and Treasury control.  SNGLS will also be stakeable in the Content Mining operation which will decide what gets listed on the platform and what doesn’t.
 
@@ -105,7 +105,7 @@ The incentives play the participants off each other by making them want the syst
 4. Third party services can provide paid services to the Content Creators.
 
 
-## IV. SNGLS DAO
+## IV. SNGLS DAO GOVERNANCE
 Our goal is to create a “living” system that adapts the protocol to the needs of the artists, without living on the backs of the creators. 
 
 ### Adaptive Platform Rules 
