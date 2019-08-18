@@ -79,13 +79,13 @@ SNGLS protocol is built using the WEB3 Tech Stack:
 
 ![](images/WEB3TechStack.png)
 
-All the content purchases/rights will be registered on the Ethereum blockchain, which acts as the source of trust (L1). We will be birthing the platform (L2) into the world and offering services to be built on top of the utility.  The platform will be controlled by the SNGLS DAO (Decentralized Autonomous Organization).  Other companies can come into the space and offer services as well (L3).  
+All the content purchases/rights will be registered on the Ethereum blockchain, which acts as the source of trust (L1). We will be birthing the platform (L2) into the world and offering services to be built on top of the utility.  The protocol will be controlled by the SNGLS DAO (Decentralized Autonomous Organization).  Other companies can come into the space and offer services as well (L3).  
 
 There are many different services that could come of this and we have only just started to scratch the surface of what these services could be.  We think this will ignite the decentralized entertainment economy and spur growth for services and new opportunities along with business models for artists.
 
 ## III. SNGLS TOKEN UTILITY AND INCENTIVE GAME
 
-The native token of the ecosystem will be SNGLS.  The SNGLS token will be used in the DAO for voting rights to approve or deny proposals for upgrading the platform, amount for listing/upload fees, and Treasury control.  SNGLS will also be stakeable in the Content Mining operation which will decide what gets listed on the platform and what doesn’t.
+The native token of the ecosystem will be SNGLS.  The SNGLS token will be used in the DAO for voting rights to approve or deny proposals for upgrading the platform, amount for listing/upload fees, and Treasury control.  SNGLS will also be stakeable in the Content Mining operation which will decide what gets listed on the protocol and what doesn’t.
 
 ![](images/Utility.png)
 
@@ -122,7 +122,7 @@ The SNGLS DAO framework is designed so that it starts as a simple kernel that ca
 1. **Forum for proposals:** The forum is a place where proposals to the platform are submitted. They will be voted on by the DAO. Funds and fees will be allocated according to the proposal.
 2. **SNGLS Media Distribution Protocol parameter settings:** The Staking and Transaction Fees are allocated to the Treasury of the DAO. A Validation Fee is paid to the Validators.  All parameters are voted on and set by the DAO.
                  
-       a. Validation Fee: Minimum amount paid to curators
+       a. Validation Fee: Minimum amount paid to validators
        b. Listing Fee: The minimum amount of SNGLS needed to be staked to have content mined onto the platform
        c. Transaction Fee: The percentage taken on every transaction of a rented or purchased piece of content
 3. **Treasury Control:** The Treasury will collect a minimal amount of fees so general maintenance to the platform can be had.  If a large upgrade is submitted to the forum and is accepted the fees will increase until enough capital has been allocated for a successful build out.
