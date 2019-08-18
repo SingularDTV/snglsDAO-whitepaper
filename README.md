@@ -190,7 +190,7 @@ In the WEB3 Curation Marketplace model we distill the entire ecosystem.  The pla
 11. **Adaptive platform:** A platform that adapts to the needs of the system organically through the DAO. 
 12. **Decentralized Autonomous Organization (DAO):** Organization represented by rules encoded as a computer program that is transparent and controlled by stakeholders.
 13. **Treasury:** Repository where the Transaction Fees and SNGLS that are from Staking for curation are stored and controlled by the DAO.
-14. **Validation Fee:** Minimum amount paid to curators to vote yes or no on a piece of content.
+14. **Validation Fee:** Minimum amount paid to validators to vote yes or no on a piece of content.
 15. **Listing Fee:** The amount of the SNGLS needed to stake to potentially mine the content onto the platform.
 16. **Transaction Fee:** The percentage taken on every transaction of a rented or purchased piece of content.
 17. **Grants:** Capital allocated from the SNGLS DAO Treasury to proposals for development.
