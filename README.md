@@ -131,7 +131,7 @@ The SNGLS DAO framework is designed so that it starts as a simple kernel that ca
 
 ## V. CONTENT MINING
 
-One of the biggest problems in the technology sector right now is figuring out how to scale open content distribution platforms. The current systems are not able to keep up with the number of Users that are coming onto these platforms and they end up banning large swaths of Content Creators even if they have done nothing wrong.3 Digging even deeper you have the problem of silencing voices of artists that could be against the regime of a country.4,5  Our solution to this is allowing humanity to validate its own artistic culture and history through a mechanism we call “Content Mining”.
+One of the biggest problems in the technology sector right now is figuring out how to scale open content distribution platforms. The current systems are not able to keep up with the number of Users that are coming onto these platforms and they end up banning large swaths of Content Creators even if they have done nothing wrong. Digging even deeper you have the problem of silencing voices of artists that could be against the regime of a country.  Our solution to this is allowing humanity to validate its own artistic culture and history through a mechanism we call “Content Mining”.
 
 Content Mining is designed to allow SNGLS holders to decide what kind of content they want to see included on the system.  It’s not “censorship-resistant or neutral” on purpose, but it does result in a validated content marketplace.  This is incredibly powerful, as it gives the public a tool to decide what it culturally thinks is correct.  This might sound scary to some people, but we believe that it is paramount to our mission.
 
@@ -160,7 +160,7 @@ In the event a piece of content is accepted into the system that is deemed not t
 
 ## VI. HOMEPAGE CONTENT DISPLAY (CURATED STOREFRONTS)
 
-There is a lot of work that goes into curating lists for distribution portals.  Looking at the recent success of Shudder and Crunchy Roll, we can see that specific niche portals can have success.6,7 The problem is, once Netflix gets into their niche they have a hard time competing against it. Case in point would be Fandor or Seeso, as soon as Netflix started to offer their specific niche, people just decided it was cheaper to go with Netflix. Seeso saw a dramatic decline in User once Netflix started to release comedy stand-up specials, and was forced to close.8
+There is a lot of work that goes into curating lists for distribution portals.  Looking at the recent success of Shudder and Crunchy Roll, we can see that specific niche portals can have success. The problem is, once Netflix gets into their niche they have a hard time competing against it. Case in point would be Fandor or Seeso, as soon as Netflix started to offer their specific niche, people just decided it was cheaper to go with Netflix. Seeso saw a dramatic decline in User once Netflix started to release comedy stand-up specials, and was forced to close.
 
 Our solution is to turn curation into a marketplace using Token-Curated Registries (TCR). This way we split the system up allowing market forces to find the best curation according to the user. Curators will compete and collaborate for top spots in a user-curated experience and be rewarded on the backend. TCRs could charge a small fee for a subscription or add a fee every time someone watches a product it recommended. This should give birth to a new and exciting ecosystem that responds to User in ways not thought possible till now.   
 
