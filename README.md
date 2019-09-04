@@ -77,7 +77,7 @@ In our modern world the commons have been privatized into siloed architectures w
 
 SNGLS protocol is built using the WEB3 Tech Stack:  
 
-![](images/WEB3TechStack.png)
+## ![](images/WEB3TechStack.png)
 
 All the content purchases/rights will be registered on the Ethereum blockchain, which acts as the source of trust (L1). We will be birthing the platform (L2) into the world and offering services to be built on top of the utility.  The protocol will be controlled by the SNGLS DAO (Decentralized Autonomous Organization).  Other companies can come into the space and offer services as well (L3).  
 
@@ -87,7 +87,7 @@ There are many different services that could come of this and we have only just 
 
 The native token of the ecosystem will be SNGLS.  The SNGLS token will be used in the DAO for voting rights to approve or deny proposals for upgrading the platform, amount for listing/upload fees, and Treasury control.  SNGLS will also be stakeable in the Content Mining operation which will decide what gets listed on the protocol and what doesn’t.
 
-![](images/Utility.png)
+## ![](images/Utility.png)
 
 In our system we have five participants with different incentives for the mechanism to achieve equilibrium (in no particular order):
 1. **Users:**  the people who buy and view content
@@ -114,7 +114,7 @@ Our goal is to create a “living” system that adapts the protocol to the need
        a. Not operating on the back of creators, i.e. wealth extraction
 2. Fees increase for upgrades and retreat when finished
 
-![](images/AdaptivePlatform.png)
+## ![](images/AdaptivePlatform.png)
 
 The SNGLS DAO framework is designed so that it starts as a simple kernel that can grow, or decrease, in complexity according to the needs of the platform determined by the community. The DAO will have three controls from the start.
 
@@ -150,7 +150,7 @@ Content Mining is designed to allow SNGLS holders to decide what kind of content
        b. If the content is accepted the initial SNGLS stake (Listing Fee) is sent to the Treasury that is controlled by the DAO.
              - If the Validator voted yes (accept) they are rewarded the Validation Fees, and the Validators that voted no (reject) are rewarded nothing.
 
-![](images/ContentMining.png)
+## ![](images/ContentMining.png)
 
 In the event a piece of content is accepted into the system that is deemed not to be appropriate (ie copyrighted), the Validators will need to vote it out of the system.  When the content is voted off the system the original curators that voted “yes” will be penalized and lose their rewarded SNGLS payment. 
 
