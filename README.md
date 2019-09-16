@@ -217,5 +217,3 @@ Pymnts - How Horror-Specific Streaming Service Shudder Connects Fans With Fright
 Polygon - Cruchyroll’s million-subscriber milestone proves anime streaming isn’t just niche, https://www.polygon.com/2017/2/10/14567090/crunchyroll-subscriber-count-2017
 
 LA Times - Comedy streaming service Seeso shutting down after less than two years, https://www.latimes.com/business/hollywood/la-fi-ct-seeso-shutdown-20170809-story.html
-
-Distractify - Is Swedish YouTuber PewDiePie Really Quitting YouTube, https://www.distractify.com/p/pewdiepie-leaving-youtube
