@@ -1,6 +1,6 @@
 ![](images/logo.png)
 
-# SNGLS DAO White Paper
+# snglsDAO White Paper
 
 ## A public decentralized media P2P marketplace distribution utility protocol
 
@@ -37,7 +37,7 @@ Milad Mostavi, Troy Murray and Zach LeBeau
         d. Developers
         e. Third party service providers
     
-### **IV. SNGLS DAO Governance**
+### **IV. snglsDAO Governance**
 
 1. Adaptive Platform
 2. Three Beginning Controls of the DAO on the Protocol
@@ -71,7 +71,7 @@ Milad Mostavi, Troy Murray and Zach LeBeau
 ## I. INTRO
 The commons: cultural resources accessible by all members of society
 
-In our modern world the commons have been privatized into siloed architectures where large companies with shadowy equity holders can influence the discourse that could once flow freely over the networks.  From the dark corners of the internet a force of light was released into the world using a trustless mechanism that removed the siloed architectures and gave the commons back to the people, a gift from an anonymous entity going by the name of Satoshi Nakamoto. Having different participants with alternative incentives that compete with each other in the system, they created a self-sustaining public currency that we call Bitcoin.   SNGLS DAO plans on using a similar self-sustaining mechanism to deliver a public media distribution utility.  We ask ourselves, not what content can do for our platform, but what can our platform do for content?  We don’t know the final outcome of this grand experiment.  All we can do is show you how it begins. Where it goes, is a choice left to you.
+In our modern world the commons have been privatized into siloed architectures where large companies with shadowy equity holders can influence the discourse that could once flow freely over the networks.  From the dark corners of the internet a force of light was released into the world using a trustless mechanism that removed the siloed architectures and gave the commons back to the people, a gift from an anonymous entity going by the name of Satoshi Nakamoto. Having different participants with alternative incentives that compete with each other in the system, they created a self-sustaining public currency that we call Bitcoin.  The snglsDAO plans on using a similar self-sustaining mechanism to deliver a public media distribution utility.  We ask ourselves, not what content can do for our platform, but what can our platform do for content?  We don’t know the final outcome of this grand experiment.  All we can do is show you how it begins. Where it goes, is a choice left to you.
 
 ## II. WEB3 Tech Stack
 
@@ -79,7 +79,7 @@ SNGLS protocol is built using the WEB3 Tech Stack:
 
 ## ![](images/WEB3TechStack.png)
 
-All the content purchases/rights will be registered on the Ethereum blockchain, which acts as the source of trust (L1). We will be birthing the platform (L2) into the world and offering services to be built on top of the utility.  The protocol will be controlled by the SNGLS DAO (Decentralized Autonomous Organization).  Other companies can come into the space and offer services as well (L3).  
+All the content purchases/rights will be registered on the Ethereum blockchain, which acts as the source of trust (L1). We will be birthing the platform (L2) into the world and offering services to be built on top of the utility.  The protocol will be controlled by the snglsDAO (Decentralized Autonomous Organization).  Other companies can come into the space and offer services as well (L3).  
 
 There are many different services that could come of this and we have only just started to scratch the surface of what these services could be.  We think this will ignite the decentralized entertainment economy and spur growth for services and new opportunities along with business models for artists.
 
