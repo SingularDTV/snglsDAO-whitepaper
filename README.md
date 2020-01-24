@@ -133,7 +133,7 @@ The SNGLS DAO framework is designed so that it starts as a simple kernel that ca
 
 One of the biggest problems in the technology sector right now is figuring out how to scale open content distribution platforms. The current systems are not able to keep up with the number of Users that are coming onto these platforms and they end up banning large swaths of Content Creators even if they have done nothing wrong. Digging even deeper you have the problem of silencing voices of artists that could be against the regime of a country.  Our solution to this is allowing humanity to validate its own artistic culture and history through a mechanism we call “Content Mining”.
 
-Content Mining is designed to allow SNGLS holders to decide what kind of content they want to see included on the system.  It’s not “censorship-resistant or neutral” on purpose, but it does result in a validated content marketplace.  This is incredibly powerful, as it gives the public a tool to decide what it culturally thinks is correct.  This might sound scary to some people, but we believe that it is paramount to our mission.
+Content Mining is designed to allow SNGLS holders to decide what kind of content they want to see included on the system.  It’s not “censorship-proof or neutral” on purpose, but it does result in a validated content marketplace.  This is incredibly powerful, as it gives the public a tool to decide what it culturally thinks is correct.  This might sound scary to some people, but we believe that it is paramount to our mission.
 
 ### The basic content validation flow works like this:
 1. The content creator prepares a new entry to the system. In order for the content to be submitted, some amount of SNGLS needs to be staked along with the Validation Fee.
